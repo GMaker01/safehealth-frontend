@@ -15,7 +15,7 @@
     "core-js": "^2.6.5",
     "element-ui": "^2.8.0",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "underscore.string": "^3.3.5",
     "vee-validate": "^2.2.3",
     "vue": "^2.6.10",
